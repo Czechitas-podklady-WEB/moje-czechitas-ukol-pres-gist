@@ -1,4 +1,4 @@
-# Jak odevzdat úkol v [Moje Czechitas](https://moje.czechitas.cz/) pomocí [Github Gist](https://gist.github.com/)
+# Jak odevzdat úkol v [Moje Czechitas](https://moje.czechitas.cz/) pomocí [GitHub Gist](https://gist.github.com/)
 
 1. Najdi si zadání konkrétního úkolu v tvém kurzu na [moje.czechitas.cz](https://moje.czechitas.cz/). `Přihlášky` > _`Kurz`_ > `Domácí úkoly` > _`První úkol`_.
 
